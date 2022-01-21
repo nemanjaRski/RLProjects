@@ -1,1 +1,1 @@
-# Implementing various reinforcement learning in PyTorch
+# Implementing various reinforcement learning algorithms in PyTorch
